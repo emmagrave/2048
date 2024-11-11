@@ -4,7 +4,8 @@ Bienvenue dans l'application **2048** ! Ce jeu de puzzle est basé sur le jeu po
 
 ## Description
 
-Le jeu 2048 est un jeu de puzzle dans lequel le joueur doit combiner des tuiles de même valeur pour atteindre le score final de 2048. À chaque mouvement, une nouvelle tuile (2 ou 4) apparaît aléatoirement sur la grille. Le joueur doit combiner ces tuiles en les faisant glisser dans une des quatre directions : haut, bas, gauche ou droite. Le jeu se termine lorsque le joueur atteint le nombre 2048 ou ne peut plus faire de mouvement.
+Le jeu 2048 est un jeu de puzzle dans lequel le joueur doit combiner des tuiles de même valeur pour atteindre le score final de 2048. À chaque mouvement, une nouvelle tuile (2 ou 4) apparaît aléatoirement sur la grille. Le joueur doit combiner ces tuiles en les faisant glisser dans une des quatre directions : haut, bas, gauche ou droite. Le jeu se termine lorsque le joueur atteint le nombre 2048 ou ne peut plus faire de mouvement.  
+
 **Ce projet a été réalisé lors de ma première année de BUT Informatique** dans le cadre d'un travail pratique. C'était une excellente opportunité pour appliquer les concepts de programmation et de gestion de projet tout en développant une application de type jeu.
 
 ## Fonctionnalités
@@ -29,7 +30,7 @@ Le jeu 2048 est un jeu de puzzle dans lequel le joueur doit combiner des tuiles 
 
 1. Clonez ce dépôt sur votre machine locale :
    ```bash
-   git clone <url_du_dépôt>
+   git clone https://github.com/emmagrave/2048.git
     ```  
 
 2. Accédez au dossier du projet :
